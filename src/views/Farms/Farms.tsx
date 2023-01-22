@@ -157,7 +157,7 @@ const Farms: React.FC<FarmsProps> = (farmsProps) => {
       <Head>
         <div style={{ display: 'flex', alignItems: 'center' }}>
           <Img>
-            <img src="/images/IBG.png" alt="logo" style={{ width: '5rem' }} />
+            <img src="/images/GETh.png" alt="logo" style={{ width: '5rem' }} />
           </Img>
           <div style={{ paddingLeft: '1rem' }}>
             <Head1>

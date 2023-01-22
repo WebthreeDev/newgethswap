@@ -123,7 +123,7 @@
     {
       "data": {
         "stringId": 320,
-        "text": "STAKE LP TOKENS & EARN DCXa"
+        "text": "STAKE LP TOKENS & EARN GravityETH"
       }
     },
     {
@@ -147,7 +147,7 @@
     {
       "data": {
         "stringId": 332,
-        "text": "DCXa Staked"
+        "text": "GravityETH Staked"
       }
     },
     {
@@ -165,19 +165,19 @@
     {
       "data": {
         "stringId": 340,
-        "text": "SYRUP DCXa Staked"
+        "text": "SYRUP GravityETH Staked"
       }
     },
     {
       "data": {
         "stringId": 342,
-        "text": "XVS DCXa Earned"
+        "text": "XVS GravityETH Earned"
       }
     },
     {
       "data": {
         "stringId": 344,
-        "text": "Stake your SYRUP to earn DCXa of new projects."
+        "text": "Stake your SYRUP to earn GravityETH of new projects."
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 360,
-        "text": "%asset% DCXa Earned"
+        "text": "%asset% GravityETH Earned"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 DCXa = 1 SYRUP"
+        "text": "1 GravityETH = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of DCXa block emissions each day (10 iBG per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of GravityETH block emissions each day (10 iBG per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% DCXa"
+        "text": "%num% GravityETH"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend DCXa to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend GravityETH to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -447,7 +447,7 @@
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 DCXa"
+        "text": "1 Ticket = 10 GravityETH"
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using DCXa-BNB LP tokens, which means you need to stake equal amounts of iBG and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GravityETH-BNB LP tokens, which means you need to stake equal amounts of iBG and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get DCXa-BNB LP"
+        "text": "Get GravityETH-BNB LP"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, DCXa Finance burns the Tokken."
+        "text": "The project gets the BNB, GravityETH Finance burns the Tokken."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with DCXa Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with GravityETH Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "DCXa STATS"
+        "text": "GravityETH STATS"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New DCXa\/block"
+        "text": "New GravityETH\/block"
       }
     },
     {
@@ -675,13 +675,13 @@
     {
       "data": {
         "stringId": 544,
-        "text": "DCXa TO HARVEST"
+        "text": "GravityETH TO HARVEST"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "DCXa IN WALLET"
+        "text": "GravityETH IN WALLET"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "DCXa to Collect"
+        "text": "GravityETH to Collect"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "DCXa Finance"
+        "text": "GravityETH Finance"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake DCXa to earn new tokens."
+        "text": "Stake GravityETH to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "DCXa to burn (USD)"
+        "text": "GravityETH to burn (USD)"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy DCXa and BNB DCXa"
+        "text": "Buy GravityETH and BNB GravityETH"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get DCXa-BNB LP tokens by adding DCXa and BNB liquidity"
+        "text": "Get GravityETH-BNB LP tokens by adding GravityETH and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your DCXa-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your GravityETH-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for DCXa, or keep for your collection!"
+        "text": "Trade in for GravityETH, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive DCXa, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive GravityETH, you will lose access to it forever!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for DCXa"
+        "text": "Trade in for GravityETH"
       }
     },
     {
@@ -1089,7 +1089,7 @@
     {
       "data": {
         "stringId": 690,
-        "text": "DCXa"
+        "text": "GravityETH"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP DCXa to earn DCXa"
+        "text": "Stake LP GravityETH to earn GravityETH"
       }
     },
     {

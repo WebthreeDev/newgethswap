@@ -129,7 +129,7 @@ const FarmCard: React.FC<FarmCardProps> = ({ farm, removed, cakePrice, btcPrice,
     : '-'
 
   const lpLabel = farm.lpSymbol
-  const earnLabel = 'DCXa' // 'EGG'
+  const earnLabel = 'GravityETH' // 'EGG'
   const farmAPY =
     farm.apy &&
     farm.apy.times(new BigNumber(100)).toNumber().toLocaleString(undefined, {

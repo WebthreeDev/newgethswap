@@ -94,19 +94,19 @@ const FarmedStakingCard = () => {
             animate={{ scale: 1.1 }}
             transition={{ ease: 'linear', duration: 2, repeat: Infinity, repeatType: 'reverse' }}
           >
-            <CardImage src="/images/IBG.png" alt="iBG logo" width={104} height={64} />{' '}
+            <CardImage src="/images/GETh.png" alt="iBG logo" width={104} height={64} />{' '}
           </Img>
           <div style={{ height: '7rem', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
             <Block>
               <div>
-                <Text>{TranslateString(544, 'IBG to Harvest')}</Text>
+                <Text>{TranslateString(544, 'GETh to Harvest')}</Text>
                 <Label>${(eggPrice * earningsSum).toFixed(2)}</Label>
               </div>
               <CakeHarvestBalance earningsSum={earningsSum} />
             </Block>
             <Block>
               <div>
-                <Text>{TranslateString(546, 'IBG in Wallet')}</Text>
+                <Text>{TranslateString(546, 'GETh in Wallet')}</Text>
                 <Label>${(eggPrice * cakeBalance).toFixed(2)}</Label>
               </div>
               <CakeWalletBalance cakeBalance={cakeBalance} />

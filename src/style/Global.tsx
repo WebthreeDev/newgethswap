@@ -13,8 +13,8 @@ const GlobalStyle = createGlobalStyle`
     font-family: 'Lato', sans-serif;
   }
   body {
-  
-    background-image: url('${({ theme }) => theme.colors.backgroundGif}') ;
+    /* eslint-disable @typescript-eslint/no-empty-interface */
+    background-image: url('${({ theme }) => theme.colors.background}') ;
     background-size: auto 100%;
     background-repeat : no-repeat;
     background-position: center center;

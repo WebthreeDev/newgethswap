@@ -121,7 +121,7 @@ const config: MenuEntry[] = [
   // {
   //   label: 'Audits',
   //   icon: 'AuditIcon',
-  //   href:"https://github.com/IBG-Finance-Defi/IBG-Farms-build/blob/main/audits/eth.pdf"
+  //   href:"https://github.com/GETh-Finance-Defi/GETh-Farms-build/blob/main/audits/eth.pdf"
   // }
 ]
 

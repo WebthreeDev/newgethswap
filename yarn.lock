@@ -1818,9 +1818,9 @@
     eslint-plugin-react "^7.21.5"
     eslint-plugin-react-hooks "^4.0.0"
 
-"@pancakeswap-libs/uikit@IBG-Finance-Defi/IBG-UI-Kit":
+"@pancakeswap-libs/uikit@GETh-Finance-Defi/GETh-UI-Kit":
   version "0.10.2"
-  resolved "https://codeload.github.com/IBG-Finance-Defi/IBG-UI-Kit/tar.gz/3a4b2fa3bbb660ee721b178c51ba141b4dfd9b43"
+  resolved "https://codeload.github.com/GETh-Finance-Defi/GETh-UI-Kit/tar.gz/3a4b2fa3bbb660ee721b178c51ba141b4dfd9b43"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"

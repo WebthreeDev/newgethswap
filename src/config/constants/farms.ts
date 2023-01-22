@@ -6,14 +6,14 @@ const farms: FarmConfig[] = [
     pid: 0,
     risk: 5,
     isTokenOnly: true,
-    lpSymbol: 'DCXa',
+    lpSymbol: 'GravityETH',
     lpAddresses: {
       97: '',
       1: '0xfecc3b6fab9e07e1f2e6c712d17f86ff2b5ee5ac',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // EGG-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
-    tokenSymbol: 'DCXa',
+    tokenSymbol: 'GravityETH',
     tokenAddresses: {
       97: '',
       1: '0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24',
@@ -26,7 +26,7 @@ const farms: FarmConfig[] = [
   {
     pid: 1,
     risk: 5,
-    lpSymbol: 'DCXa-ETH',
+    lpSymbol: 'GravityETH-ETH',
     platfrom: 'Uniswap',
 
     lpAddresses: {
@@ -35,7 +35,7 @@ const farms: FarmConfig[] = [
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // EGG-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
-    tokenSymbol: 'DCXa',
+    tokenSymbol: 'GravityETH',
     tokenAddresses: {
       97: '',
       1: '0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24',
@@ -50,14 +50,14 @@ const farms: FarmConfig[] = [
     risk: 5,
     platfrom: 'Uniswap',
 
-    lpSymbol: 'DCXa-USDT',
+    lpSymbol: 'GravityETH-USDT',
     lpAddresses: {
       97: '',
       1: '0x81a10a45143d7a6b7e1a0e63761b4fba311bb661',
       56: '0xe1F93A26D599aBd6eD93F69f4B2a8567FC9a0aba', // EGG-BUSD LP
       3: '0x72A24b4CD7Dae850250dFDdcdCC2359E26C9A031',
     },
-    tokenSymbol: 'DCXa',
+    tokenSymbol: 'GravityETH',
     tokenAddresses: {
       97: '',
       1: '0xF16CD087e1C2C747b2bDF6f9A5498AA400D99C24',
