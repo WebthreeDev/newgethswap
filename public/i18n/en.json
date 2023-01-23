@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of GravityETH block emissions each day (10 iBG per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of GravityETH block emissions each day (10 GETH per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,7 +567,7 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using GravityETH-BNB LP tokens, which means you need to stake equal amounts of iBG and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using GravityETH-BNB LP tokens, which means you need to stake equal amounts of GETH and BNB in a liquidity pool to take part."
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The iBG Lottery"
+        "text": "The GETH Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with iBG"
+        "text": "Buy tickets with GETH"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback iBG"
+        "text": "Deposit Fee will be used to buyback GETH"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "STAKE TOKENS & EARN iBG"
+        "text": "STAKE TOKENS & EARN GETH"
       }
     },
     {
