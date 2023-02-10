@@ -48,7 +48,7 @@ const CakeStats = () => {
     <StyledCakeStats>
       <CardBody>
         <Heading size="lg" mb="24px">
-          {TranslateString(534, 'GETh Stats')}
+          {TranslateString(534, 'UPETH Stats')}
         </Heading>
         <div style={{ width: '18rem' }}>
           <Row>

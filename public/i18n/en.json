@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of UpEthereum block emissions each day (10 GETH per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of UpEthereum block emissions each day (10 UPETH per block), Rewards are distributed each block."
       }
     },
     {
@@ -567,7 +567,7 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using UpEthereum-BNB LP tokens, which means you need to stake equal amounts of GETH and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using UpEthereum-BNB LP tokens, which means you need to stake equal amounts of UPETH and BNB in a liquidity pool to take part."
       }
     },
     {
@@ -1149,13 +1149,13 @@
     {
       "data": {
         "stringId": 708,
-        "text": "The GETH Lottery"
+        "text": "The UPETH Lottery"
       }
     },
     {
       "data": {
         "stringId": 710,
-        "text": "Buy tickets with GETH"
+        "text": "Buy tickets with UPETH"
       }
     },
     {
@@ -1209,7 +1209,7 @@
     {
       "data": {
         "stringId": 10000,
-        "text": "Deposit Fee will be used to buyback GETH"
+        "text": "Deposit Fee will be used to buyback UPETH"
       }
     },
     {
@@ -1221,7 +1221,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "STAKE TOKENS & EARN GETH"
+        "text": "STAKE TOKENS & EARN UPETH"
       }
     },
     {

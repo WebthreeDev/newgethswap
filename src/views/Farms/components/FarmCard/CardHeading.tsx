@@ -31,7 +31,7 @@ const CardHeading: React.FC<ExpandableSectionProps> = ({
   depositFee,
 }) => {
   const isToken = lpLabel.indexOf('-') === -1
-  // if (lpLabel.toLowerCase() === 'geth' || lpLabel.toLowerCase() === 'busd' || lpLabel.toLowerCase() === 'wbnb') {
+  // if (lpLabel.toLowerCase() === 'UPETH' || lpLabel.toLowerCase() === 'busd' || lpLabel.toLowerCase() === 'wbnb') {
   //   isToken = true
   // }
   return (
