@@ -123,7 +123,7 @@
     {
       "data": {
         "stringId": 320,
-        "text": "STAKE LP TOKENS & EARN GravityETH"
+        "text": "STAKE LP TOKENS & EARN UpEthereum"
       }
     },
     {
@@ -147,7 +147,7 @@
     {
       "data": {
         "stringId": 332,
-        "text": "GravityETH Staked"
+        "text": "UpEthereum Staked"
       }
     },
     {
@@ -165,19 +165,19 @@
     {
       "data": {
         "stringId": 340,
-        "text": "SYRUP GravityETH Staked"
+        "text": "SYRUP UpEthereum Staked"
       }
     },
     {
       "data": {
         "stringId": 342,
-        "text": "XVS GravityETH Earned"
+        "text": "XVS UpEthereum Earned"
       }
     },
     {
       "data": {
         "stringId": 344,
-        "text": "Stake your SYRUP to earn GravityETH of new projects."
+        "text": "Stake your SYRUP to earn UpEthereum of new projects."
       }
     },
     {
@@ -225,7 +225,7 @@
     {
       "data": {
         "stringId": 360,
-        "text": "%asset% GravityETH Earned"
+        "text": "%asset% UpEthereum Earned"
       }
     },
     {
@@ -243,7 +243,7 @@
     {
       "data": {
         "stringId": 380,
-        "text": "1 GravityETH = 1 SYRUP"
+        "text": "1 UpEthereum = 1 SYRUP"
       }
     },
     {
@@ -291,7 +291,7 @@
     {
       "data": {
         "stringId": 400,
-        "text": "SYRUP holders proportionally split 25% of GravityETH block emissions each day (10 GETH per block), Rewards are distributed each block."
+        "text": "SYRUP holders proportionally split 25% of UpEthereum block emissions each day (10 GETH per block), Rewards are distributed each block."
       }
     },
     {
@@ -351,13 +351,13 @@
     {
       "data": {
         "stringId": 424,
-        "text": "%num% GravityETH"
+        "text": "%num% UpEthereum"
       }
     },
     {
       "data": {
         "stringId": 426,
-        "text": "Spend GravityETH to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
+        "text": "Spend UpEthereum to buy tickets, contributing to the lottery pot. Ticket purchases end approx. 30 minutes before lottery. Win prizes if 2, 3, or 4 of your ticket numbers match the winning numbers and their positions! Good luck!"
       }
     },
     {
@@ -447,7 +447,7 @@
     {
       "data": {
         "stringId": 458,
-        "text": "1 Ticket = 10 GravityETH"
+        "text": "1 Ticket = 10 UpEthereum"
       }
     },
     {
@@ -567,19 +567,19 @@
     {
       "data": {
         "stringId": 504,
-        "text": "You\u2019ll pay for the new tokens using GravityETH-BNB LP tokens, which means you need to stake equal amounts of GETH and BNB in a liquidity pool to take part."
+        "text": "You\u2019ll pay for the new tokens using UpEthereum-BNB LP tokens, which means you need to stake equal amounts of GETH and BNB in a liquidity pool to take part."
       }
     },
     {
       "data": {
         "stringId": 506,
-        "text": "Get GravityETH-BNB LP"
+        "text": "Get UpEthereum-BNB LP"
       }
     },
     {
       "data": {
         "stringId": 508,
-        "text": "The project gets the BNB, GravityETH Finance burns the Tokken."
+        "text": "The project gets the BNB, UpEthereum Finance burns the Tokken."
       }
     },
     {
@@ -597,7 +597,7 @@
     {
       "data": {
         "stringId": 514,
-        "text": "Launch your project with GravityETH Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
+        "text": "Launch your project with UpEthereum Finance, Binance Smart Chain\u2019s most-used AMM project and liquidity provider, to bring your token directly to the most active and rapidly growing community on BSC."
       }
     },
     {
@@ -645,7 +645,7 @@
     {
       "data": {
         "stringId": 534,
-        "text": "GravityETH STATS"
+        "text": "UpEthereum STATS"
       }
     },
     {
@@ -663,7 +663,7 @@
     {
       "data": {
         "stringId": 540,
-        "text": "New GravityETH\/block"
+        "text": "New UpEthereum\/block"
       }
     },
     {
@@ -675,13 +675,13 @@
     {
       "data": {
         "stringId": 544,
-        "text": "GravityETH TO HARVEST"
+        "text": "UpEthereum TO HARVEST"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "GravityETH IN WALLET"
+        "text": "UpEthereum IN WALLET"
       }
     },
     {
@@ -699,7 +699,7 @@
     {
       "data": {
         "stringId": 552,
-        "text": "GravityETH to Collect"
+        "text": "UpEthereum to Collect"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "GravityETH Finance"
+        "text": "UpEthereum Finance"
       }
     },
     {
@@ -765,7 +765,7 @@
     {
       "data": {
         "stringId": 580,
-        "text": "Stake GravityETH to earn new tokens."
+        "text": "Stake UpEthereum to earn new tokens."
       }
     },
     {
@@ -783,7 +783,7 @@
     {
       "data": {
         "stringId": 586,
-        "text": "GravityETH to burn (USD)"
+        "text": "UpEthereum to burn (USD)"
       }
     },
     {
@@ -813,13 +813,13 @@
     {
       "data": {
         "stringId": 596,
-        "text": "Buy GravityETH and BNB GravityETH"
+        "text": "Buy UpEthereum and BNB UpEthereum"
       }
     },
     {
       "data": {
         "stringId": 598,
-        "text": "Get GravityETH-BNB LP tokens by adding GravityETH and BNB liquidity"
+        "text": "Get UpEthereum-BNB LP tokens by adding UpEthereum and BNB liquidity"
       }
     },
     {
@@ -831,7 +831,7 @@
     {
       "data": {
         "stringId": 602,
-        "text": "While the sale is live, commit your GravityETH-LP tokens to buy the IFO tokens"
+        "text": "While the sale is live, commit your UpEthereum-LP tokens to buy the IFO tokens"
       }
     },
     {
@@ -867,7 +867,7 @@
     {
       "data": {
         "stringId": 614,
-        "text": "Trade in for GravityETH, or keep for your collection!"
+        "text": "Trade in for UpEthereum, or keep for your collection!"
       }
     },
     {
@@ -909,7 +909,7 @@
     {
       "data": {
         "stringId": 628,
-        "text": "When you trade in this NFT to receive GravityETH, you will lose access to it forever!"
+        "text": "When you trade in this NFT to receive UpEthereum, you will lose access to it forever!"
       }
     },
     {
@@ -981,7 +981,7 @@
     {
       "data": {
         "stringId": 654,
-        "text": "Trade in for GravityETH"
+        "text": "Trade in for UpEthereum"
       }
     },
     {
@@ -1089,7 +1089,7 @@
     {
       "data": {
         "stringId": 690,
-        "text": "GravityETH"
+        "text": "UpEthereum"
       }
     },
     {
@@ -1107,7 +1107,7 @@
     {
       "data": {
         "stringId": 696,
-        "text": "Stake LP GravityETH to earn GravityETH"
+        "text": "Stake LP UpEthereum to earn UpEthereum"
       }
     },
     {
